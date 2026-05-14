@@ -1,0 +1,10 @@
+# Generated output files
+*.docx
+*.txt
+!README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
